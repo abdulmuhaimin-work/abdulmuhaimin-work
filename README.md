@@ -1,4 +1,4 @@
-<div><a href="https://app.daily.dev/AMuhaimin"><img src="https://github.com/abdulmuhaimin-work/abdulmuhaimin-work/blob/main/devcard.svg" width="400" alt="My Dev Card"/></a></div>
+<div style="transform:translate(50px, 100px)"><a href="https://app.daily.dev/AMuhaimin"><img src="https://github.com/abdulmuhaimin-work/abdulmuhaimin-work/blob/main/devcard.svg" width="400" alt="My Dev Card"/></a></div>
 
 <!--
 **abdulmuhaimin-work/abdulmuhaimin-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
